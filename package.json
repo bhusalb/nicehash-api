@@ -1,0 +1,29 @@
+{
+  "name": "nicehash-api",
+  "version": "1.0.0",
+  "description": "Nicehash api version 2 wrapper",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"ok\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhusalb/nicehash-api.git"
+  },
+  "keywords": [
+    "nicehash",
+    "api",
+    "v2"
+  ],
+  "author": "Bishnu Bhusal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhusalb/nicehash-api/issues"
+  },
+  "homepage": "https://github.com/bhusalb/nicehash-api#readme",
+  "dependencies": {
+    "chance": "^1.0.18",
+    "request": "^2.88.0",
+    "throttled-request": "^0.1.1"
+  }
+}
